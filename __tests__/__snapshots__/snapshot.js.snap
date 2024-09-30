@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-body1 css-85abk4-MuiTypography-root"
+  >
+    Hello, 
+    World
+  </p>
+</div>
+`;
